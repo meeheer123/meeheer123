@@ -1,7 +1,7 @@
 ![image](https://github.com/meeheer123/meeheer123/assets/127537487/ca2ad6cd-1c35-4ad4-aeb8-9a073277a71e)<h1 align="center">Hi 👋, I'm Mihir Pande</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif"
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeheer123&label=Profile%20views&color=0e75b6&style=flat" alt="meeheer123" /> </p>
 
