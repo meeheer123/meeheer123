@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Pande</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif">
 
