@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mihir Pande and I'm a Python Enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Mihir Pande and I like to write code</h2>
 
 ###
 
